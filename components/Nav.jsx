@@ -83,7 +83,7 @@ const Nav = () => {
           <>
             {providers && 
               Object.values(providers).map((provider) => (
-                <button type="button" key={provider.name} onClick={() => signIn(provider.id)} className="black_btn">
+                <button type="button" key={provider.name} onClick={() => signIn(provider.id)} className="btn_primary">
                     Sign In
                 </button>
               ))
