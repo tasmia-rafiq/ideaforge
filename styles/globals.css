@@ -156,7 +156,7 @@
   @apply space-y-6 py-8 sm:columns-2 sm:gap-6 xl:columns-3;
 }
 @media screen and (max-width: 500px) {
-  .prompt_layout {width: inherit}
+  .prompt_layout {width: inherit; margin-top: 20px;}
 }
 
 /* Feed Component */
