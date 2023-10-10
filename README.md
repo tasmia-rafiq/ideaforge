@@ -20,6 +20,10 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## Final Look
+
+<img src="https://github.com/tasmia-rafiq/ideaforge/blob/main/ideaForgeMockup.png?raw=true" />
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
